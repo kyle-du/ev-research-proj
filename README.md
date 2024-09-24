@@ -1,4 +1,5 @@
 # INFO2950 Final Project (Fall 2024)
+- Members: Caroline Chan (cic37), Jamie Jeong (jj397), Kyle Du (kd533), Lydia Lin (dl2253)
 
 ## Phase 0 Docs
 - [Team Contract](https://docs.google.com/document/d/1PQCqKtdzuMsdIsBdWjO_Q_ORJQT8sf7nb4vzUThqrU0/edit?usp=sharing)
