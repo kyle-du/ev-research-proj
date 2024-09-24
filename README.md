@@ -1,4 +1,4 @@
-# INFO2950 Project (Fall 2024)
+# INFO2950 Final Project (Fall 2024)
 
 ## Phase 0 Docs
 - [Team Contract](https://docs.google.com/document/d/1PQCqKtdzuMsdIsBdWjO_Q_ORJQT8sf7nb4vzUThqrU0/edit?usp=sharing)
